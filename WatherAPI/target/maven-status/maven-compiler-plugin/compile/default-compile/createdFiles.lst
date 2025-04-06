@@ -1,0 +1,5 @@
+yash\example\WatherAPI\Services\WeatherServices.class
+yash\example\WatherAPI\Entity\WeatherEntity.class
+yash\example\WatherAPI\Entity\WeatherEntity$Current.class
+yash\example\WatherAPI\MainCantroller\WeatherCantroller.class
+yash\example\WatherAPI\WatherApiApplication.class
