@@ -29,3 +29,12 @@ YashWeather is a simple and beautiful weather information web application built 
 
 ### `GET /weather?city={cityName}
 
+🙌 Author
+Yash Gupta
+
+Java Developer | Spring Boot Enthusiast
+
+📬 Contact
+📧 guptay264@gmail.com
+📞 +91-7748965563
+
