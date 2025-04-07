@@ -2,10 +2,7 @@
 
 YashWeather is a simple and beautiful weather information web application built with **HTML, CSS, and JavaScript**, powered by a **Java Spring Boot** backend that serves real-time weather data.
 
-🔗 **Live Backend API:**  
-
-
-[`https://turntable.proxy.rlwy.net:48008`](https://turntable.proxy.rlwy.net:48008)
+🔗 **Live Backend API:**  [turntable.proxy.rlwy.net:48008]
 
 ---
 
